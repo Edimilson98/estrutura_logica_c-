@@ -1,0 +1,14 @@
+C:\Users\Edimilson Dev\source\repos\revisao\revisao1\revisao1\bin\Debug\netcoreapp3.1\revisao1.exe
+C:\Users\Edimilson Dev\source\repos\revisao\revisao1\revisao1\bin\Debug\netcoreapp3.1\revisao1.deps.json
+C:\Users\Edimilson Dev\source\repos\revisao\revisao1\revisao1\bin\Debug\netcoreapp3.1\revisao1.runtimeconfig.json
+C:\Users\Edimilson Dev\source\repos\revisao\revisao1\revisao1\bin\Debug\netcoreapp3.1\revisao1.runtimeconfig.dev.json
+C:\Users\Edimilson Dev\source\repos\revisao\revisao1\revisao1\bin\Debug\netcoreapp3.1\revisao1.dll
+C:\Users\Edimilson Dev\source\repos\revisao\revisao1\revisao1\bin\Debug\netcoreapp3.1\revisao1.pdb
+C:\Users\Edimilson Dev\source\repos\revisao\revisao1\revisao1\obj\Debug\netcoreapp3.1\revisao1.csproj.AssemblyReference.cache
+C:\Users\Edimilson Dev\source\repos\revisao\revisao1\revisao1\obj\Debug\netcoreapp3.1\revisao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edimilson Dev\source\repos\revisao\revisao1\revisao1\obj\Debug\netcoreapp3.1\revisao1.AssemblyInfoInputs.cache
+C:\Users\Edimilson Dev\source\repos\revisao\revisao1\revisao1\obj\Debug\netcoreapp3.1\revisao1.AssemblyInfo.cs
+C:\Users\Edimilson Dev\source\repos\revisao\revisao1\revisao1\obj\Debug\netcoreapp3.1\revisao1.csproj.CoreCompileInputs.cache
+C:\Users\Edimilson Dev\source\repos\revisao\revisao1\revisao1\obj\Debug\netcoreapp3.1\revisao1.dll
+C:\Users\Edimilson Dev\source\repos\revisao\revisao1\revisao1\obj\Debug\netcoreapp3.1\revisao1.pdb
+C:\Users\Edimilson Dev\source\repos\revisao\revisao1\revisao1\obj\Debug\netcoreapp3.1\revisao1.genruntimeconfig.cache

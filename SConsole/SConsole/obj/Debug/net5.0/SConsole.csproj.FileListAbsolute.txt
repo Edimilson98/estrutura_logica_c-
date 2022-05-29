@@ -1,0 +1,16 @@
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\bin\Debug\net5.0\SConsole.exe
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\bin\Debug\net5.0\SConsole.deps.json
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\bin\Debug\net5.0\SConsole.runtimeconfig.json
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\bin\Debug\net5.0\SConsole.runtimeconfig.dev.json
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\bin\Debug\net5.0\SConsole.dll
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\bin\Debug\net5.0\ref\SConsole.dll
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\bin\Debug\net5.0\SConsole.pdb
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\obj\Debug\net5.0\SConsole.csproj.AssemblyReference.cache
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\obj\Debug\net5.0\SConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\obj\Debug\net5.0\SConsole.AssemblyInfoInputs.cache
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\obj\Debug\net5.0\SConsole.AssemblyInfo.cs
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\obj\Debug\net5.0\SConsole.csproj.CoreCompileInputs.cache
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\obj\Debug\net5.0\SConsole.dll
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\obj\Debug\net5.0\ref\SConsole.dll
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\obj\Debug\net5.0\SConsole.pdb
+C:\Users\Edimilson Dev\source\repos\revisao\SConsole\SConsole\obj\Debug\net5.0\SConsole.genruntimeconfig.cache
